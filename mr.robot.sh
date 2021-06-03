@@ -1,10 +1,10 @@
 #!/bin/bash
 #
-# decimo.sh - Nosso Decimo progrmaa em shell - Mr. Robot
+# decimo.sh - Nosso Decimo progrma em shell - Mr. Robot
 #
-# Homepage: http://www.utah.com.br
-# Autor: Filipe <fgrahl2010@gmail.com>
-# Mantenedor: UTAH
+# Homepage: In construction
+# Autor: Prana Knight <pranaknight@gmail.com>
+# Mantenedor: FG Prana
 #
 # ----------------------------------------------------
 #
