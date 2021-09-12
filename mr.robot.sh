@@ -46,7 +46,7 @@ while true; do
 			nmap -sS "${sites[$DADO]}"
 
 		;;
-		*"conect"*|*"access"*|*"ssh"*)
+		*"connect"*|*"access"*|*"ssh"*)
 			DADO="$(( $RANDOM % 4))"
 			ssh -l root "${openssh[$DADO]}"
 		;;
